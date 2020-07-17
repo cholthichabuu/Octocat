@@ -1,3 +1,3 @@
 Hello, this is Octocat!
 I'm going to Show you how i use git
-Let's start with git init
+Let's go start with git init
